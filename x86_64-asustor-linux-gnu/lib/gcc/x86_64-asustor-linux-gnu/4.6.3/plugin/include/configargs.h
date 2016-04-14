@@ -1,0 +1,7 @@
+/* Generated automatically. */
+static const char configuration_arguments[] = "/opt/toolchain/.build/src/gcc-4.6.3/configure --build=x86_64-build_unknown-linux-gnu --host=x86_64-build_unknown-linux-gnu --target=x86_64-asustor-linux-gnu --prefix=/opt/toolchain/x86_64-asustor-linux-gnu --with-sysroot=/opt/toolchain/x86_64-asustor-linux-gnu/x86_64-asustor-linux-gnu/sysroot --enable-languages=c,c++ --with-pkgversion='x86 64-bit toolchain - ASUSTOR Inc.' --with-bugurl=http://forum.asustor.com/ --enable-__cxa_atexit --disable-libmudflap --enable-libgomp --enable-libssp --disable-libquadmath --disable-libquadmath-support --with-gmp=/opt/toolchain/.build/x86_64-asustor-linux-gnu/buildtools --with-mpfr=/opt/toolchain/.build/x86_64-asustor-linux-gnu/buildtools --with-mpc=/opt/toolchain/.build/x86_64-asustor-linux-gnu/buildtools --with-ppl=no --with-cloog=no --with-libelf=/opt/toolchain/.build/x86_64-asustor-linux-gnu/buildtools --with-host-libstdcxx='-static-libgcc -Wl,-Bstatic,-lstdc++,-Bdynamic -lm' --enable-threads=posix --enable-target-optspace --enable-linker-build-id --enable-plugin --disable-nls --disable-multilib --with-local-prefix=/opt/toolchain/x86_64-asustor-linux-gnu/x86_64-asustor-linux-gnu/sysroot --enable-c99 --enable-long-long";
+static const char thread_model[] = "posix";
+
+static const struct {
+  const char *name, *value;
+} configure_default_options[] = { { "cpu", "generic" }, { "arch", "x86-64" } };
